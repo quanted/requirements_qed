@@ -42,7 +42,7 @@ pypdf2==1.26.0
 pyshp==1.2.12
 pytest==3.5.0
 pytest-django==3.1.2
-pytest-html
+pytest-html==1.17.0
 python-coveralls==2.9.1 #not in conda, pip install
 python-dotenv==0.8.2
 pytz==2018.3
