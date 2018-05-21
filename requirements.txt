@@ -1,7 +1,7 @@
 awscli==1.15.24
 bcrypt==3.1.4
 beautifulsoup4==4.6.0
-bokeh==0.12.15
+bokeh==0.12.16
 boto==2.48.0
 boto3==1.7.19
 celery==4.1.0
