@@ -23,4 +23,4 @@
 
 # option 3
 # install via conda, but if not there install via pip
-while read requirement; do conda install --yes $requirement || pip install $requirement; done < requirements.txt
+while read requirement; do conda install --yes $requirement || C:/Users/KWOLFE/AppData/Local/Continuum/Anaconda3/envs/py36/Scripts/pip install $requirement; done < requirements.txt
