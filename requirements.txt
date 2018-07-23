@@ -55,7 +55,7 @@ requests==2.19.1
 rollbar==0.14.1
 scipy==1.1.0
 #snakefood==1.4 #not in conda, pip install (failed when pip installing: SyntaxError)
-selenium==3.12.0
+selenium==3.13.0
 Shapely==1.6.4.post1
 Sphinx==1.7.5
 sqlalchemy==1.2.8
