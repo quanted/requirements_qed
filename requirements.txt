@@ -58,7 +58,7 @@ scipy==1.1.0
 selenium==3.13.0
 Shapely==1.6.4.post2
 Sphinx==1.7.6
-sqlalchemy==1.2.8
+sqlalchemy==1.2.10
 # sqlalchemy-utils==0.32.14
 tabulate==0.8.2
 twine==1.11.0 #not in conda, pip install
