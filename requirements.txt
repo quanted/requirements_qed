@@ -64,4 +64,4 @@ tabulate==0.8.2
 twine==1.11.0 #not in conda, pip install
 uwsgi==2.0.17.1
 xhtml2pdf==0.2.3 #beta version has python 3 support, pip only atm
-xlsxwriter==1.0.5
+xlsxwriter==1.1.0
