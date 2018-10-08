@@ -43,7 +43,7 @@ pylint==2.1.1
 pymongo==3.7.1
 pypdf2==1.26.0
 pyshp==1.2.12
-pytest==3.6.1
+pytest==3.8.2
 pytest-django==3.3.0
 pytest-html==1.19.0
 python-coveralls==2.9.1 #not in conda, pip install
