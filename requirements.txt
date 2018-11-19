@@ -46,7 +46,7 @@ pymongo==3.7.2
 pypdf2==1.26.0
 pyshp==2.0.1
 pytest==4.0.0
-pytest-django==3.4.3
+pytest-django==3.4.4
 pytest-html==1.19.0
 python-coveralls==2.9.1 #not in conda, pip install
 python-dotenv==0.9.1
