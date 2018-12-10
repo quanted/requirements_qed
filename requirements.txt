@@ -54,7 +54,7 @@ python-dotenv==0.10.0
 pytz==2018.7
 redis==3.0.1 #pip not conda
 reportlab==3.5.12
-requests==2.20.1
+requests==2.21.0
 rollbar==0.14.5
 scipy==1.1.0
 #snakefood==1.4 #not in conda, pip install (failed when pip installing: SyntaxError)
