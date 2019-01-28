@@ -63,7 +63,7 @@ Shapely==1.6.4.post2
 Sphinx==1.8.3
 sqlalchemy==1.2.17
 # sqlalchemy-utils==0.32.14
-tabulate==0.8.2
+tabulate==0.8.3
 twine==1.12.1 #not in conda, pip install
 uwsgi==2.0.17.1
 xhtml2pdf==0.2.3 #beta version has python 3 support, pip only atm
