@@ -56,7 +56,7 @@ redis==3.1.0 #pip not conda
 reportlab==3.5.13
 requests==2.21.0
 rollbar==0.14.6
-scipy==1.2.0
+scipy==1.2.1
 #snakefood==1.4 #not in conda, pip install (failed when pip installing: SyntaxError)
 selenium==3.141.0
 Shapely==1.6.4.post2
