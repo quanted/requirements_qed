@@ -65,7 +65,7 @@ Sphinx==1.8.4
 sqlalchemy==1.2.18
 # sqlalchemy-utils==0.32.14
 tabulate==0.8.3
-twine==1.12.1 #not in conda, pip install
+twine==1.13.0 #not in conda, pip install
 uwsgi==2.0.17.1
 xhtml2pdf==0.2.3 #beta version has python 3 support, pip only atm
 xlsxwriter==1.1.2
