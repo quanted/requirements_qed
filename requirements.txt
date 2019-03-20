@@ -67,6 +67,6 @@ sqlalchemy==1.2.17
 tabulate==0.8.3
 twine==1.12.1 #not in conda, pip install
 uWSGI==2.0.17.1
-Werkzeug=0.15.0
+Werkzeug==0.15.0
 xhtml2pdf==0.2.3 #beta version has python 3 support, pip only atm
 xlsxwriter==1.1.2
