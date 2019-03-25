@@ -8,7 +8,7 @@ boto3==1.9.120
 codecov==2.0.15
 cov-core==1.15.0 #nose2 coverage, not in conda, pip install
 coverage==4.5.3
-coveralls==1.6.0
+coveralls==1.7.0
 dask==1.1.4
 distributed==1.26.0
 django==2.1.7
