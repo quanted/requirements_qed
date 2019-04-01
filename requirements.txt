@@ -10,7 +10,7 @@ cov-core==1.15.0 #nose2 coverage, not in conda, pip install
 coverage==4.5.3
 coveralls==1.7.0
 dask==1.1.5
-distributed==1.26.0
+distributed==1.26.1
 django==2.1.7
 django-cors-headers==2.5.2
 django-crispy-forms==1.7.2
