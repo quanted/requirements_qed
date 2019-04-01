@@ -22,7 +22,7 @@ fiona==1.8.6
 flake8==3.7.7
 flask==1.0.2
 flask-restful==0.3.7
-flask-swagger==0.2.13
+flask-swagger==0.2.14
 #flower==0.9.2
 geopandas==0.4.1
 google-api-python-client==1.7.8
