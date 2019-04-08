@@ -27,7 +27,7 @@ flask-swagger==0.2.14
 geopandas==0.4.1
 google-api-python-client==1.7.8
 html5lib==1.0.1
-Jinja2==2.10
+Jinja2==2.10.1
 matplotlib==3.0.3
 mechanicalsoup==0.11.0
 #mechanize==0.3.6  # build error: "mechanize" only works on python 2.x"
