@@ -69,4 +69,4 @@ twine==1.13.0
 uwsgi==2.0.18
 Werkzeug==0.15.2
 xhtml2pdf==0.2.3
-xlsxwriter==1.1.6
+xlsxwriter==1.1.8
