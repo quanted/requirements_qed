@@ -6,7 +6,7 @@
 awscli==1.16.174
 bcrypt==3.1.6
 beautifulsoup4==4.7.1
-bokeh==1.0.4
+bokeh==1.2.0
 boto==2.49.0
 boto3==1.9.130
 codecov==2.0.15
