@@ -28,7 +28,7 @@ flask==1.1.1
 flask-restful==0.3.7
 flask-swagger==0.2.14
 geopandas==0.5.1
-google-api-python-client==1.7.8
+google-api-python-client==1.7.9
 html5lib==1.0.1
 Jinja2==2.10.1
 matplotlib==3.0.3
