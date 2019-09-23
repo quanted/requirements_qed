@@ -11,7 +11,7 @@ boto==2.49.0
 boto3==1.9.233
 codecov==2.0.15
 cov-core==1.15.0
-coverage==4.5.3
+coverage==4.5.4
 coveralls==1.7.0
 dask==1.1.5
 distributed==1.26.1
