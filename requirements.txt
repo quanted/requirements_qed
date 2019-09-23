@@ -3,7 +3,7 @@
 #mechanize==0.3.6
 #snakefood==1.4 #not in conda, pip install (failed when pip installing: SyntaxError)
 #sqlalchemy-utils==0.32.14
-awscli==1.16.140
+awscli==1.16.243
 bcrypt==3.1.6
 beautifulsoup4==4.7.1
 bokeh==1.0.4
