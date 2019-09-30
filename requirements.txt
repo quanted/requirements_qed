@@ -57,7 +57,7 @@ python-coveralls==2.9.3
 python-dotenv==0.10.3
 pytz==2019.2
 redis==3.3.8
-reportlab==3.5.18
+reportlab==3.5.26
 requests==2.21.0
 rollbar==0.14.7
 scipy==1.2.1
