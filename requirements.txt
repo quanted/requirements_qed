@@ -68,6 +68,6 @@ sqlalchemy==1.3.9
 tabulate==0.8.5
 twine==2.0.0
 uwsgi==2.0.18
-Werkzeug==0.15.2
+Werkzeug==0.16.0
 xhtml2pdf==0.2.3
 xlsxwriter==1.1.6
