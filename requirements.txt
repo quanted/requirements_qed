@@ -58,7 +58,7 @@ python-dotenv==0.10.3
 pytz==2019.3
 redis==3.3.11
 reportlab==3.5.32
-requests==2.21.0
+requests==2.22.0
 rollbar==0.14.7
 scipy==1.2.1
 selenium==3.141.0
