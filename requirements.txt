@@ -44,7 +44,7 @@ numpy==1.17.3
 pandas==0.25.3
 pillow==6.2.1
 psutil==5.6.4
-psycopg2==2.8.1
+psycopg2==2.8.4
 pyhamcrest==1.9.0
 pylint==2.3.1
 pymongo==3.7.2
