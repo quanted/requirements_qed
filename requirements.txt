@@ -46,7 +46,7 @@ pillow==6.2.1
 psutil==5.6.4
 psycopg2==2.8.4
 pyhamcrest==1.9.0
-pylint==2.3.1
+pylint==2.4.3
 pymongo==3.7.2
 pypdf2==1.26.0
 pyshp==2.1.0
