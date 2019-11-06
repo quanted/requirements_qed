@@ -1,4 +1,4 @@
-#celery==4.2.1  # moved to static_requirements.txt at 4.1.1 (issues #4907 and #4908)
+celery==4.3  # moved to static_requirements.txt at 4.1.1 (issues #4907 and #4908)
 #flower==0.9.2
 #mechanize==0.3.6
 #snakefood==1.4 #not in conda, pip install (failed when pip installing: SyntaxError)
