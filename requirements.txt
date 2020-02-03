@@ -69,4 +69,4 @@ uwsgi==2.0.18
 Werkzeug==0.16.1
 xgboost==0.90
 xhtml2pdf==0.2.4
-xlsxwriter==1.2.2
+xlsxwriter==1.2.7
