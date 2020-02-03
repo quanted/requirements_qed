@@ -52,7 +52,7 @@ pytest-html==2.0.1
 python-coveralls==2.9.3
 python-dotenv==0.10.5
 pytz==2019.3
-redis==3.3.11
+redis==3.4.1
 reportlab==3.5.32
 requests==2.22.0
 rollbar==0.14.7
