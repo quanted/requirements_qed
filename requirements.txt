@@ -23,7 +23,7 @@ flake8==3.7.9
 flask==1.1.1
 flask-restful==0.3.7
 flask-swagger==0.2.14
-geopandas==0.6.1
+geopandas==0.6.2
 google-api-python-client==1.7.11
 html5lib==1.0.1
 Jinja2==2.10.3
