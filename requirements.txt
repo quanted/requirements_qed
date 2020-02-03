@@ -26,7 +26,7 @@ flask-swagger==0.2.14
 geopandas==0.6.2
 google-api-python-client==1.7.11
 html5lib==1.0.1
-Jinja2==2.10.3
+Jinja2==2.11.1
 matplotlib==3.1.1
 mechanicalsoup==0.12.0
 netCDF4==1.5.3
