@@ -1,4 +1,4 @@
-celery==4.3
+celery==4.4.0
 awscli==1.16.272
 bcrypt==3.1.7
 beautifulsoup4==4.8.1
