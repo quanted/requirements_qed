@@ -1,5 +1,5 @@
 celery==4.4.0
-awscli==1.16.272
+awscli==1.17.9
 bcrypt==3.1.7
 beautifulsoup4==4.8.1
 bokeh==1.4.0
