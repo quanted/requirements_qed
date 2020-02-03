@@ -50,7 +50,7 @@ pytest==5.3.5
 pytest-django==3.8.0
 pytest-html==2.0.1
 python-coveralls==2.9.3
-python-dotenv==0.10.3
+python-dotenv==0.10.5
 pytz==2019.3
 redis==3.3.11
 reportlab==3.5.32
