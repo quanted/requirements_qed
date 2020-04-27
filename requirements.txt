@@ -10,7 +10,7 @@ codecov==2.0.22
 cov-core==1.15.0
 coverage==5.1
 coveralls==2.0.0
-dask==2.10.0
+dask==2.15.0
 distributed==2.10.0
 django==3.0.3
 django-cors-headers==3.2.1
