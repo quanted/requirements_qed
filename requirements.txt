@@ -1,4 +1,4 @@
-awscli==1.17.9
+awscli==1.18.56
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 bokeh==1.4.0
