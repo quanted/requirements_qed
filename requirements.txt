@@ -44,7 +44,7 @@ psutil==5.7.2
 psycopg2==2.8.5
 pyhamcrest==2.0.2
 pylint==2.5.3
-pymongo==3.10.1
+pymongo==3.11.0
 pypdf2==1.26.0
 pyshp==2.1.0
 pytest==5.3.5
