@@ -1,5 +1,5 @@
 awscli==1.18.147
-bcrypt==3.1.7
+bcrypt==3.2.0
 beautifulsoup4==4.8.2
 bokeh==1.4.0
 boto==2.49.0
