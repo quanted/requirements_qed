@@ -12,7 +12,7 @@ coverage==5.3
 coveralls==2.1.2
 dask==2.30.0
 distributed==2.30.0
-django==3.0.7
+django==3.1.2
 django-cors-headers==3.2.1
 django-crispy-forms==1.8.1
 django-parsley==0.5
