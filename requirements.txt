@@ -52,7 +52,7 @@ pytest-django==4.1.0
 pytest-html==2.1.1
 python-coveralls==2.9.3
 python-dotenv==0.14.0
-pytz==2019.3
+pytz==2020.1
 redis==3.4.1
 reportlab==3.5.32
 requests==2.22.0
