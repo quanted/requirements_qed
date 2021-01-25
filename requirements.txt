@@ -23,7 +23,7 @@ earthengine-api==0.1.248
 factory_boy==3.2.0
 fiona==1.8.18
 flake8==3.8.4
-flask==1.1.1
+flask==1.1.2
 flask-restful==0.3.7
 flask-swagger==0.2.14
 geopandas==0.6.2
