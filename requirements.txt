@@ -22,7 +22,7 @@ django-rest-swagger==2.2.0
 earthengine-api==0.1.250
 factory_boy==3.2.0
 fiona==1.8.18
-flake8==3.7.9
+flake8==3.8.4
 flask==1.1.1
 flask-restful==0.3.7
 flask-swagger==0.2.14
