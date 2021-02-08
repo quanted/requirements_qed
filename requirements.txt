@@ -4,7 +4,7 @@ beautifulsoup4==4.9.3
 blosc==1.10.2
 bokeh==2.2.3
 boto==2.49.0
-boto3==1.11.9
+boto3==1.17.3
 celery==4.4.0
 cloudpickle==1.2.2
 codecov==2.0.15
