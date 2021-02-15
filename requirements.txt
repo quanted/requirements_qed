@@ -10,7 +10,7 @@ cloudpickle==1.6.0
 codecov==2.1.11
 cov-core==1.15.0
 coverage==5.4
-coveralls==1.10.0
+coveralls==3.0.0
 dask==2.10.0
 dbfread==2.0.7
 distributed==2.10.0
