@@ -14,7 +14,7 @@ coveralls==3.0.0
 dask==2021.2.0
 dbfread==2.0.7
 distributed==2021.2.0
-django==3.0.7
+django==3.1.6
 django-cors-headers==3.2.1
 django-crispy-forms==1.8.1
 django-parsley==0.5
