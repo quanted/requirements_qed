@@ -62,7 +62,7 @@ reportlab==3.5.59
 requests==2.25.1
 rollbar==0.15.2
 scikit-learn==0.24.1
-scipy==1.5.4
+scipy==1.6.1
 selenium==3.141.0
 Shapely==1.7.0
 Sphinx==2.3.1
