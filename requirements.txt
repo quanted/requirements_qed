@@ -46,7 +46,7 @@ pandas==1.2.2
 pillow==8.1.0
 psutil==5.8.0
 psycopg2==2.8.6
-pyhamcrest==2.0.0
+pyhamcrest==2.0.2
 pylint==2.4.4
 pymongo==3.10.1
 pypdf2==1.26.0
