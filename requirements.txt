@@ -19,7 +19,7 @@ django-cors-headers==3.7.0
 django-crispy-forms==1.11.1
 django-parsley==0.7
 django-rest-swagger==2.2.0
-earthengine-api==0.1.204
+earthengine-api==0.1.253
 factory_boy==2.12.0
 fiona==1.8.13
 flake8==3.7.9
