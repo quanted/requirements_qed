@@ -73,7 +73,7 @@ toolz==0.11.1
 tornado==6.1
 twine==3.4.0
 #uwsgi==2.0.18
-Werkzeug==0.16.1
+Werkzeug==1.0.1
 xgboost==0.90
 xhtml2pdf==0.2.4
 xlsxwriter==1.2.7
