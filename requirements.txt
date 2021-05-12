@@ -1,10 +1,11 @@
-awscli==1.19.44
+#awscli==1.19.72
 bcrypt==3.2.0
 beautifulsoup4==4.9.3
 blosc==1.10.2
 bokeh==2.3.0
-boto==2.49.0
-boto3==1.17.44
+#boto==2.49.0
+#botocore==1.20.72
+#boto3==1.17.72
 celery==5.0.5
 cloudpickle==1.6.0
 codecov==2.1.11
@@ -25,6 +26,7 @@ flake8==3.9.0
 flask==1.1.2
 flask-restful==0.3.8
 flask-swagger==0.2.14
+fsspec==2021.4.0
 geopandas==0.9.0
 html5lib==1.1
 Jinja2==2.11.3
