@@ -23,7 +23,7 @@ django-rest-swagger==2.2.0
 factory_boy==3.2.0
 fiona==1.8.19
 flake8==3.9.2
-flask==1.1.2
+flask==2.0.0
 flask-restful==0.3.8
 flask-swagger==0.2.14
 fsspec==2021.4.0
