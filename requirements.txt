@@ -64,7 +64,7 @@ requests==2.26.0
 rollbar==0.16.2
 s3fs==2021.10.0
 scikit-learn==1.0
-scipy==1.7.0
+scipy==1.7.1
 selenium==3.141.0
 Shapely==1.7.1
 Sphinx==4.0.2
