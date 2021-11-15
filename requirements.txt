@@ -22,7 +22,7 @@ django-parsley==0.7
 django-rest-swagger==2.2.0
 factory_boy==3.2.1
 fiona==1.8.20
-flake8==3.9.2
+flake8==4.0.1
 flask==2.0.1
 flask-restful==0.3.9
 flask-swagger==0.2.14
