@@ -45,7 +45,7 @@ numba==0.55.0
 numpy==1.22.1
 pandas==1.4.0
 pillow==9.0.0
-psutil==5.8.0
+psutil==5.9.0
 psycopg2==2.9.1
 pyhamcrest==2.0.2
 pylint==2.8.3
