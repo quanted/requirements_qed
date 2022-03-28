@@ -60,7 +60,7 @@ python-dotenv==0.20.0
 pytz==2022.1
 redis==4.2.0
 reportlab==3.6.9
-requests==2.25.1
+requests==2.27.1
 rollbar==0.16.1
 s3fs==2021.6.1
 scikit-learn==0.24.2
