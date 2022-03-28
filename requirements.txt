@@ -7,7 +7,7 @@ bokeh==2.4.2
 #botocore==1.20.72
 boto3==1.21.27
 celery==5.2.3
-cloudpickle==1.6.0
+cloudpickle==2.0.0
 codecov==2.1.11
 cov-core==1.15.0
 coverage==5.5
