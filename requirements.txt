@@ -61,7 +61,7 @@ pytz==2022.1
 redis==4.3.3
 reportlab==3.6.10
 requests==2.28.0
-rollbar==0.16.1
+rollbar==0.16.3
 s3fs==2021.6.1
 scikit-learn==0.24.2
 scipy==1.7.0
