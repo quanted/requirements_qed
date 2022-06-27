@@ -76,7 +76,7 @@ tornado==6.1
 twine==4.0.1
 #uwsgi==2.0.18
 Werkzeug==2.1.2
-xarray==0.18.2
+xarray==2022.3.0
 xgboost==1.5.1
 zarr==2.8.3
 xhtml2pdf==0.2.5
