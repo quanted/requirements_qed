@@ -77,7 +77,7 @@ twine==4.0.1
 #uwsgi==2.0.18
 Werkzeug==2.2.0
 xarray==2022.6.0
-xgboost==1.5.1
+xgboost==1.6.1
 zarr==2.8.3
 xhtml2pdf==0.2.5
 xlsxwriter==1.4.3
