@@ -1,6 +1,6 @@
 #awscli==1.19.72
 bcrypt==3.2.2
-beautifulsoup4==4.9.3
+beautifulsoup4==4.11.1
 blosc==1.10.4
 bokeh==2.3.2
 #boto==2.49.0
