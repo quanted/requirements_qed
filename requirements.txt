@@ -79,5 +79,5 @@ Werkzeug==2.2.2
 xarray==2022.6.0
 xgboost==1.6.1
 zarr==2.12.0
-xhtml2pdf==0.2.5
+xhtml2pdf==0.2.8
 xlsxwriter==1.4.3
