@@ -66,7 +66,7 @@ s3fs==2023.1.0
 scikit-learn==1.2.1
 scipy==1.10.0
 selenium==4.8.0
-Shapely==1.7.1
+Shapely==2.0.1
 Sphinx==4.0.2
 sqlalchemy==1.4.18
 tabulate==0.8.9
