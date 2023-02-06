@@ -80,4 +80,4 @@ xarray==2023.1.0
 xgboost==1.7.3
 zarr==2.13.6
 xhtml2pdf==0.2.9
-xlsxwriter==1.4.3
+xlsxwriter==3.0.8
