@@ -69,7 +69,7 @@ selenium==4.9.1
 Shapely==2.0.1
 Sphinx==7.0.1
 sqlalchemy==2.0.15
-tabulate==0.8.9
+tabulate==0.9.0
 tblib==1.7.0
 toolz==0.11.1
 tornado==6.1
