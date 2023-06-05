@@ -59,7 +59,7 @@ python-coveralls==2.9.3
 python-dotenv==1.0.0
 pytz==2023.3
 redis==4.5.5
-reportlab==3.5.67
+reportlab==4.0.4
 requests==2.25.1
 rollbar==0.16.1
 s3fs==2021.6.1
