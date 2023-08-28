@@ -8,7 +8,7 @@ bokeh==3.2.2
 boto3==1.28.35
 celery==5.3.1
 cloudpickle==2.2.1
-codecov==2.1.11
+codecov==2.1.13
 cov-core==1.15.0
 coverage==5.5
 coveralls==3.1.0
