@@ -56,7 +56,7 @@ pytest==7.4.2
 pytest-django==4.5.2
 pytest-html==4.0.2
 python-coveralls==2.9.3
-python-dotenv==0.18.0
+python-dotenv==1.0.0
 pytz==2021.1
 rdkit==2023.3.1
 redis==3.5.3
