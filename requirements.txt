@@ -62,7 +62,7 @@ rdkit==2023.3.3
 redis==5.0.0
 reportlab==4.0.5
 requests==2.31.0
-rollbar==0.16.1
+rollbar==0.16.3
 s3fs==2021.6.1
 scikit-learn==0.24.2
 scipy==1.7.0
