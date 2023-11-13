@@ -60,7 +60,7 @@ python-dotenv==1.0.0
 pytz==2023.3.post1
 rdkit==2023.9.1
 redis==5.0.1
-reportlab==3.5.67
+reportlab==4.0.7
 requests==2.25.1
 rollbar==0.16.1
 s3fs==2021.6.1
