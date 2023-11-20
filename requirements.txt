@@ -79,6 +79,6 @@ twine==4.0.2
 Werkzeug==3.0.1
 xarray==2023.11.0
 xgboost==2.0.2
-zarr==2.8.3
+zarr==2.16.1
 xhtml2pdf==0.2.5
 xlsxwriter==1.4.3
