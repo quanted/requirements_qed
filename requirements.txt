@@ -74,7 +74,7 @@ tabulate==0.9.0
 tblib==3.0.0
 toolz==0.12.1
 tornado==6.4
-twine==3.4.1
+twine==5.0.0
 #uwsgi==2.0.18
 Werkzeug==2.0.1
 xarray==0.18.2
